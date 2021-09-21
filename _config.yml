@@ -30,8 +30,8 @@ description: |
   We truly believe that blockchain technology, along with what it enables, is 
   the technology of the future. NFT's are inherently more valuable than people 
   think, and we want to prove that.
-baseurl: "/OBHC.io" # the subpath of your site, e.g. /blog
-url: "obhc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "obhc.github.io/OBHC.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OBHC_NFT
 
 # Build settings
