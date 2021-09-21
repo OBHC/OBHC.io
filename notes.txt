@@ -1,0 +1,10 @@
+
+make a post to homepage 
+
+<ul class="post-list">
+    <h3>
+        <a class="post-link" href="/jekyll/update/2021/09/20/club.html">
+            The Club Set - 200
+        </a>
+    </h3>
+</ul>
