@@ -35,7 +35,7 @@ url: "obhc.github.io/OBHC.io" # the base hostname & protocol for your site, e.g.
 twitter_username: OBHC_NFT
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 # Exclude from processing.
